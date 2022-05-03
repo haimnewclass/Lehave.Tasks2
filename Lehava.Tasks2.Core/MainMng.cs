@@ -28,6 +28,12 @@ namespace Lehava.Tasks2.Core
 
         }
 
+
+        public void NumArriveStar(int num)
+        {
+           ;
+        }
+
         public void MainLoop()
         {
             while (t1.Status!=TaskStatus.RanToCompletion)

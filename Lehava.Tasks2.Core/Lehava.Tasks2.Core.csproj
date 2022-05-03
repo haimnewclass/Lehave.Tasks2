@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DoWork.cs" />
     <Compile Include="MainMng2.cs" />
     <Compile Include="MainMng.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
