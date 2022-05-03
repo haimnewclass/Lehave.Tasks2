@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lehava.Tasks2.Core", "Lehava.Tasks2.Core\Lehava.Tasks2.Core.csproj", "{80D23829-F279-430D-B540-12BC69C1AFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lehava.Tasks2.UI", "Lehava.Tasks2.UI\Lehava.Tasks2.UI.csproj", "{BAE1C585-42DD-4D20-82D3-4EE0D79EB7E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D23829-F279-430D-B540-12BC69C1AFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D23829-F279-430D-B540-12BC69C1AFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D23829-F279-430D-B540-12BC69C1AFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D23829-F279-430D-B540-12BC69C1AFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE1C585-42DD-4D20-82D3-4EE0D79EB7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE1C585-42DD-4D20-82D3-4EE0D79EB7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE1C585-42DD-4D20-82D3-4EE0D79EB7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE1C585-42DD-4D20-82D3-4EE0D79EB7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7113D48-D3EA-443E-9B10-44BB13CA1A31}
+	EndGlobalSection
+EndGlobal
